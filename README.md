@@ -13,13 +13,13 @@ This project analyzes the data from IMDB and The Numbers. The IMDB data consiste
 
 ## Business Problem
 
-![image-2.png](attachment:image-2.png)
+![movies.jpg](dsc-phase-1-project-v2-4-master/chart_pics/movies.jpg)
 
 Microsoft Studios desires to enter into the film industry with the most optimal roadplan possible. This movie data analysis' aim is to provide Microsoft Studios with conclusions to their relevant questions.
 
 ## Data Understanding
 
-![image-3.png](attachment:image-3.png)
+![movies_2.jpg](dsc-phase-1-project-v2-4-master/chart_pics/movies_2.jpg)
 
 The IMDB database has unique IDs for each movie and persons associated with the film projects. The Numbers database has each project budget and gross revenue for both domestic and worldwide. We merged the data and calcuate the Return on Investment (ROI) to display the director, genre, financial details. The data loaded below is saved as Pandas Dataframes in which analysis was conducted on.
 
@@ -31,21 +31,26 @@ This project uses descriptive analysis, including analysis of movie genres with 
 
 Top 5 highest ROI movie genres are Biography, Horror, Documentary, Action and Comedy. Their average ROI is over 350+%, and Biography and Horror genres stand out among the top 5 with 550+% ROI.
 
-average roi by genre.png
+![avg_roi_genre.png](dsc-phase-1-project-v2-4-master/chart_pics/avg_roi_genre.png)
 
-top 5 roi genre.png
+![five_ROI_num_genres.png](dsc-phase-1-project-v2-4-master/chart_pics/five_ROI_num_genres.png)
 
 Also a mix of 2 genres appears to be a key indicator for higher ROI. Their average is about 60% higher than the other number of genres mixed in a movie.
 
-roi based on num of genres.png
+![ROI_num_genres.png](dsc-phase-1-project-v2-4-master/chart_pics/ROI_num_genres.png)
 
 These are the lineups of high ROI producing directors for respective genres.
 
-top5 directors biography.png
-top5 directors horror.png
-top5 directors documentary.png
-top5 directors action.png
-top5 directors comedy.png
+![bio_direct_genres.png](dsc-phase-1-project-v2-4-master/chart_pics/bio_direct_genres.png)
+
+![horror_direct_genres.png](dsc-phase-1-project-v2-4-master/chart_pics/horror_direct_genres.png)
+
+![docu_direct_genres.png](dsc-phase-1-project-v2-4-master/chart_pics/docu_direct_genres.png)
+
+![action_direct_genres.png](dsc-phase-1-project-v2-4-master/chart_pics/action_direct_genres.png)
+
+![comedy_direct_genres.png](dsc-phase-1-project-v2-4-master/chart_pics/comedy_direct_genres.png)
+
 
 ## Conclusions
 
