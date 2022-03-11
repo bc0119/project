@@ -3,6 +3,10 @@
 
 ![image.png](attachment:image.png)
 
+## How To Navigate Through Repo
+
+In the Movie Project Analysis folder, there is a zippedData folder and a working_code folder. In the zippedData folder, is the location of the data we used for our analysis. In the working_code folder, is the code we used in our analysis. The student.ipynb file is the final product-- code and markdown. The chart_pics folder contains the pictures of our charts created and saved from our code.
+
 ## Overview
 
 This project analyzes the data from IMDB and The Numbers. The IMDB data consisted of general information such as the movie titles, release dates, actor and director information, etc. The Numbers data consisted of budgets and gross earnings. Microsoft Studios can use this data to discover the most profitable way to enter into the film industry.
