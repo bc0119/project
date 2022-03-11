@@ -7,3 +7,7 @@ __pycache__
 .gitattributes.swp
 !*.zip
 zippedData/im.db
+/.gitattributes
+/.gitattributes.swp
+/dsc-phase-1-project-v2-4-master/.ipynb_checkpoints
+/dsc-phase-1-project-v2-4-master/.canvas
