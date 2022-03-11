@@ -5,7 +5,9 @@
 
 ## How To Navigate Through the Repo
 
-In the Movie Project Analysis folder, there is a zippedData folder and a working_code folder. In the zippedData folder, is the location of the data we used for our analysis. In the working_code folder, is the code we used in our analysis. The student.ipynb file is the final product-- code, data, and markdown. The Microsoft's Entry to Film Industry presentation pdf is our powerpoint, illustrating our analysis. The chart_pics folder contains the pictures of our charts created and saved from our code.
+##### The student.ipynb file is the final product-- code, data, and markdown. The Microsoft's Entry to Film Industry presentation pdf is our powerpoint, illustrating our analysis.
+
+In the dsc-phase-1-project-v2-4-master folder, there is a zippedData folder and a working_code folder. In the zippedData folder, is the location of the data we used for our analysis. In the working_code folder, is the code we used in our analysis.  The chart_pics folder contains the pictures of our charts created and saved from our code.
 
 ## Overview
 
