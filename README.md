@@ -1,11 +1,11 @@
 # Microsoft Studio Movie Analysis
 
 
-![image.png](attachment:image.png)
+![Microsoft_Studios_logo.svg.png](dsc-phase-1-project-v2-4-master/chart_pics/Microsoft_Studios_logo.svg.png)
 
-## How To Navigate Through Repo
+## How To Navigate Through the Repo
 
-In the Movie Project Analysis folder, there is a zippedData folder and a working_code folder. In the zippedData folder, is the location of the data we used for our analysis. In the working_code folder, is the code we used in our analysis. The student.ipynb file is the final product-- code and markdown. The chart_pics folder contains the pictures of our charts created and saved from our code.
+In the Movie Project Analysis folder, there is a zippedData folder and a working_code folder. In the zippedData folder, is the location of the data we used for our analysis. In the working_code folder, is the code we used in our analysis. The student.ipynb file is the final product-- code, data, and markdown. The chart_pics folder contains the pictures of our charts created and saved from our code.
 
 ## Overview
 
