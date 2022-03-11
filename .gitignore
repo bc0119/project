@@ -1,0 +1,9 @@
+dsc-phase-1-project-v2-4-master/.ipynb_checkpoints
+dsc-phase-1-project-v2-4-master/.canvas
+.DS_Store
+__pycache__
+*.pytest_cache
+.gitattributes
+.gitattributes.swp
+!*.zip
+zippedData/im.db
