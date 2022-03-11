@@ -63,11 +63,11 @@ Highly recommend a film with 2 genres mixed. Then, select two genres from top 5 
 
 Further analyses could yield additional insights to improve to studio's decision making:
 
-*Actors who yield highest ROI
-*Whether Franchise or Single movies generate better profits
-*American Studios versus International Studios
-*Indie Films versus Studio Films
-*Best Release Time
-*Best Runtime
+-Actors who yield highest ROI
+-Whether Franchise or Single movies generate better profits
+-American Studios versus International Studios
+-Indie Films versus Studio Films
+-Best Release Time
+-Best Runtime
 
 
