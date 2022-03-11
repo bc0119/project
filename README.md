@@ -5,7 +5,7 @@
 
 ## How To Navigate Through the Repo
 
-In the Movie Project Analysis folder, there is a zippedData folder and a working_code folder. In the zippedData folder, is the location of the data we used for our analysis. In the working_code folder, is the code we used in our analysis. The student.ipynb file is the final product-- code, data, and markdown. The chart_pics folder contains the pictures of our charts created and saved from our code.
+In the Movie Project Analysis folder, there is a zippedData folder and a working_code folder. In the zippedData folder, is the location of the data we used for our analysis. In the working_code folder, is the code we used in our analysis. The student.ipynb file is the final product-- code, data, and markdown. The Microsoft's Entry to Film Industry presentation pdf is our powerpoint, illustrating our analysis. The chart_pics folder contains the pictures of our charts created and saved from our code.
 
 ## Overview
 
@@ -63,11 +63,11 @@ Highly recommend a film with 2 genres mixed. Then, select two genres from top 5 
 
 Further analyses could yield additional insights to improve to studio's decision making:
 
--Actors who yield highest ROI
--Whether Franchise or Single movies generate better profits
--American Studios versus International Studios
--Indie Films versus Studio Films
--Best Release Time
--Best Runtime
+##### Actors who yield highest ROI
+##### Whether Franchise or Single movies generate better profits
+##### American Studios versus International Studios
+##### Indie Films versus Studio Films
+##### Best Release Time
+##### Best Runtime
 
 
